@@ -1,0 +1,1 @@
+{"version":3,"sources":["containers/NotFoundPage/index.js"],"names":["NotFound"],"mappings":"mKAEe,SAASA,IACtB,OAAO","file":"static/js/5.daca61e3.chunk.js","sourcesContent":["import React from 'react';\n\nexport default function NotFound() {\n  return <h1>This is the NotFoundPage container!</h1>;\n}\n"],"sourceRoot":""}
